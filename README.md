@@ -37,6 +37,7 @@ display:inline-block;
 
 ### 9、Scripts may close only the windows that were opened by it
 ```javascript
-window.location.href="about:blank";window.close();
+window.location.href="about:blank";
+window.close();
 ``` 
 
