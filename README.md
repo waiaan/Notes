@@ -32,3 +32,7 @@
 
 ### 8、p标签里面不能包含块级元素，否则会被推出来。
 
+### 9、Scripts may close only the windows that were opened by it
+#### window.location.href="about:blank";window.close();
+  
+
