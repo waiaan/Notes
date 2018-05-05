@@ -7,24 +7,27 @@
 ### 3、只有设置了 name 属性的表单元素才能在提交表单时传递它们的值。
 
 ### 4、使display:inline-block兼容所有浏览器的方法是：
-#### display:inline-block;
-#### *display:inline;
-#### *zoom:1;
+```css
+display:inline-block;
+*display:inline;
+*zoom:1;
+```
 
 ### 5、修改输入框placeholder文字默认颜色：
-#### :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
-####     color: #000; opacity:1; 
-#### }
-#### ::-moz-placeholder { /* Mozilla Firefox 19+ */
-####     color: #000;opacity:1;
-#### }
-#### input:-ms-input-placeholder{
-####     color: #000;opacity:1;
-#### }
-#### input::-webkit-input-placeholder{
-####     color: #000;opacity:1;
-#### }
-
+```css
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+     color: #000; opacity:1; 
+ }
+ ::-moz-placeholder { /* Mozilla Firefox 19+ */
+     color: #000;opacity:1;
+ }
+ input:-ms-input-placeholder{
+     color: #000;opacity:1;
+ }
+ input::-webkit-input-placeholder{
+     color: #000;opacity:1;
+ }
+```
 ### 6、ie8下margin失效：
 #### 给父级元素添加display:inline-block; 
 
