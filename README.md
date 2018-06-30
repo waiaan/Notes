@@ -40,4 +40,97 @@ display:inline-block;
 window.location.href="about:blank";
 window.close();
 ``` 
+### 10、HTML5全屏API
+```javascript
+/**
+* [requestFullScreen 设置全屏]
+*/
+function requestFullScreen() {
+	var de = document.documentElement;
+	if (de.requestFullscreen) {
+		de.requestFullscreen();
+	} else if (de.mozRequestFullScreen) {
+		de.mozRequestFullScreen();
+	} else if (de.webkitRequestFullScreen) {
+		de.webkitRequestFullScreen();
+	}
+}
 
+/**
+* [exitFullscreen 退出全屏]
+*/
+function exitFullscreen() {
+	var de = document;
+	if (de.exitFullscreen) {
+		de.exitFullscreen();
+	} else if (de.mozCancelFullScreen) {
+		de.mozCancelFullScreen();
+	} else if (de.webkitCancelFullScreen) {
+		de.webkitCancelFullScreen();
+	}
+}
+
+/**
+* 返回正处于全屏状态的Element节点，如果当前没有节点处于全屏状态，则返回null。
+*/
+var fullscreenElement = document.fullscreenElement||
+                        document.mozFullScreenElement||
+                        document.webkitFullscreenElement;
+
+/**
+* 返回一个布尔值，表示当前文档是否可以切换到全屏状态。
+*/
+var fullscreenEnabled=document.fullscreenEnabled||
+                      document.mozFullScreenEnabled||
+                      document.webkitFullscreenEnabled||
+                      document.msFullscreenEnabled;
+
+/**
+* 浏览器进入或离开全屏时触发。
+*/
+        document.addEventListener('fullscreenchange', function(){});
+ 
+        document.addEventListener('webkitfullscreenchange', function(){});
+ 
+        document.addEventListener('mozfullscreenchange', function(){});
+ 
+        document.addEventListener('MSFullscreenChange', function(){});
+        
+/**
+* 浏览器无法进入全屏时触发。
+*/
+        document.addEventListener('fullscreenerror', function(){});
+ 
+        document.addEventListener('webkitfullscreenerror', function(){});
+ 
+        document.addEventListener('mozfullscreenerror', function(){});
+ 
+        document.addEventListener('MSFullscreenError', function(){});
+```
+```css
+        :-webkit-full-screen {
+          /* properties */
+        }
+ 
+        :-moz-full-screen {
+          /* properties */
+        }
+ 
+        :-ms-fullscreen {
+          /* properties */
+        }
+ 
+        :full-screen { /*pre-spec */
+          /* properties */
+        }
+ 
+        :fullscreen { /* spec */
+          /* properties */
+        }
+ 
+        /* deeper elements */
+        video:-webkit-full-screen {
+            width: 100%;
+            height: 100%;
+        }
+```
