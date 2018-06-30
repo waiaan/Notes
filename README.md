@@ -41,6 +41,7 @@ window.location.href="about:blank";
 window.close();
 ``` 
 ### 10、HTML5全屏API
+#### JavaScript
 ```javascript
 /**
 * [requestFullScreen 设置全屏]
@@ -107,6 +108,7 @@ var fullscreenEnabled=document.fullscreenEnabled||
  
         document.addEventListener('MSFullscreenError', function(){});
 ```
+#### CSS
 ```css
         :-webkit-full-screen {
           /* properties */
