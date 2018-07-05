@@ -136,3 +136,5 @@ var fullscreenEnabled=document.fullscreenEnabled||
             height: 100%;
         }
 ```
+
+### 11、对象的键总为字符串,因此obj[10]相当于obj["10"],obj[[1,0]]相当于obj["1,0"]
