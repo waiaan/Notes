@@ -137,4 +137,6 @@ var fullscreenEnabled=document.fullscreenEnabled||
         }
 ```
 
-### 11、对象的键总为字符串,因此obj[10]相当于obj["10"],obj[[1,0]]相当于obj["1,0"]
+### 11、对象的键总为字符串,因此obj[10]相当于obj["10"],obj[[1,0]]相当于obj["1,0"]。
+
+### 12、命名函数表达式的函数名只对函数体内可见。
