@@ -157,3 +157,19 @@ var fullscreenEnabled=document.fullscreenEnabled||
 |Object.keys()	           |数组，对象	                        |返回可枚举的实例属性名组成的数组                           |
 |Object.getOwnPropertyNames() |数组，对象	                        |返回除原型属性以外的所有属性（包括不可枚举的属性）名组成的数组|
 |for..of	           |可迭代对象(Array, Map, Set, arguments等) |返回属性值                                                |
+
+### 15、POST REQUEST BODY
+```js
+Content-Type:multipart/form-data; boundary=----WebKitFormBoundaryrGKCBY7qhFd3TrwA
+
+------WebKitFormBoundaryrGKCBY7qhFd3TrwA
+Content-Disposition: form-data; name="text"
+
+title
+------WebKitFormBoundaryrGKCBY7qhFd3TrwA
+Content-Disposition: form-data; name="file"; filename="chrome.png"
+Content-Type: image/png
+
+PNG ... content of chrome.png ...
+------WebKitFormBoundaryrGKCBY7qhFd3TrwA--
+```
