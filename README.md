@@ -173,3 +173,10 @@ Content-Type: image/png
 PNG ... content of chrome.png ...
 ------WebKitFormBoundaryrGKCBY7qhFd3TrwA--
 ```
+
+### 16、子元素的margin-top会传递给父元素
+#### 修改父元素的高度，增加padding-top样式模拟
+#### 为父元素添加overflow：hidden；样式即可
+#### 为父元素或者子元素声明浮动
+#### 为父元素添加border
+#### 为父元素或者子元素声明绝对定位
