@@ -1,4 +1,3 @@
-# problems-encountered
 ### 1、ie7 a标签后面的span元素向右浮动后错位：
 #### 把span元素放在a标签之前。
 
