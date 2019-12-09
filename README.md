@@ -39,3 +39,5 @@ window.close();
 ![](https://image-static.segmentfault.com/186/543/1865431362-c3d090d5d00755cf_articlex)
 
 ### 15、[你不知道的 JSON.stringify() 的威力](https://segmentfault.com/a/1190000021230185)
+
+### 16、[这才是真正的Git——Git内部原理](https://juejin.im/post/5dedc513f265da33e82bb294)
