@@ -45,3 +45,5 @@ window.close();
 ### 17、[假如你的同事写了这样的代码：a && d || b && c && !d || (!a || !b) && c](https://juejin.im/post/5e078eede51d45583a66d1e0)
 
 ### 18、[一次弄懂Event Loop（彻底解决此类面试问题）](https://juejin.im/post/5c3d8956e51d4511dc72c200)
+
+### 19、[js 内存泄漏场景、如何监控以及分析](https://juejin.im/post/5e1fd64a5188254d9c516e64)
