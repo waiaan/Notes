@@ -49,3 +49,5 @@ window.close();
 ### 19、[js 内存泄漏场景、如何监控以及分析](https://juejin.im/post/5e1fd64a5188254d9c516e64)
 
 ### 20、[Webpack优化总会让你不得不爱](https://juejin.im/post/5cceecb7e51d453ab908717c)
+
+### 21、[HTML a标签打开新标签页避免出现安全漏洞，请使用“noopener”](https://segmentfault.com/a/1190000022771547)
