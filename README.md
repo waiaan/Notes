@@ -53,3 +53,5 @@ window.close();
 ### 21、[HTML a标签打开新标签页避免出现安全漏洞，请使用“noopener”](https://segmentfault.com/a/1190000022771547)
 
 ### 22、[webpack优化解决项目体积大、打包时间长、刷新时间长问题！](https://juejin.im/post/5ed1c85df265da77190bbab4)
+
+### 23、[Optimize Website Speed With Chrome DevTools](https://developers.google.cn/web/tools/chrome-devtools/speed/get-started)
