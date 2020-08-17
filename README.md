@@ -59,3 +59,5 @@ window.close();
 ### 24、[学会使用Vue JSX，一车老干妈都是你的](https://juejin.im/post/5f01e9fff265da22ab2d532e)
 
 ### 25、[前端登录，这一篇就够了](https://juejin.im/post/5efde67f5188252e9452be14#heading-8)
+
+### 26、[setTimeout和setImmediate到底谁先执行，本文让你彻底理解Event Loop](https://segmentfault.com/a/1190000023315304)
