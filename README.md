@@ -61,3 +61,5 @@ window.close();
 ### 25、[前端登录，这一篇就够了](https://juejin.im/post/5efde67f5188252e9452be14#heading-8)
 
 ### 26、[setTimeout和setImmediate到底谁先执行，本文让你彻底理解Event Loop](https://segmentfault.com/a/1190000023315304)
+
+### 27、[手摸手，带你用vue撸后台 系列五(v4.0新版本)](https://juejin.im/post/6844903840626507784)
