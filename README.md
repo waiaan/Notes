@@ -63,3 +63,5 @@ window.close();
 ### 26、[setTimeout和setImmediate到底谁先执行，本文让你彻底理解Event Loop](https://segmentfault.com/a/1190000023315304)
 
 ### 27、[手摸手，带你用vue撸后台 系列五(v4.0新版本)](https://juejin.im/post/6844903840626507784)
+
+### 28、[一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://juejin.im/post/6844904106658643982)/[一文带你层层解锁「文件下载」的奥秘](https://segmentfault.com/a/1190000023841687)
