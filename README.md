@@ -67,3 +67,5 @@ window.close();
 ### 28、[一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://juejin.im/post/6844904106658643982)/[一文带你层层解锁「文件下载」的奥秘](https://segmentfault.com/a/1190000023841687)
 
 ### 29、[一行代码实现display"过渡动画"原理](https://segmentfault.com/a/1190000023912169)
+
+### 30、[万字长文+思维导图帮你梳理 Java IO 流，还学不会你来打我（值得收藏）](https://www.javazhiyin.com/67828.html)
