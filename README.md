@@ -69,3 +69,5 @@ window.close();
 ### 29、[一行代码实现display"过渡动画"原理](https://segmentfault.com/a/1190000023912169)
 
 ### 30、[万字长文+思维导图帮你梳理 Java IO 流，还学不会你来打我（值得收藏）](https://www.javazhiyin.com/67828.html)
+
+### 31、[奇怪的知识——位掩码](https://segmentfault.com/a/1190000039239875)
