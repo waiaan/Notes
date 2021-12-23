@@ -71,3 +71,7 @@ window.close();
 ### 30、[万字长文+思维导图帮你梳理 Java IO 流，还学不会你来打我（值得收藏）](https://www.javazhiyin.com/67828.html)
 
 ### 31、[奇怪的知识——位掩码](https://segmentfault.com/a/1190000039239875)
+
+### 32、[js中的文件和二进制数据的操作](https://liyucang-git.github.io/2019/06/25/js%E4%B8%AD%E7%9A%84%E6%96%87%E4%BB%B6%E5%92%8C%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E6%8D%AE%E7%9A%84%E6%93%8D%E4%BD%9C/)
+
+### 33、[JavaScript 读写二进制数据](https://juejin.cn/post/6844903672678203405)
