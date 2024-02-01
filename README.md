@@ -83,3 +83,5 @@ window.close();
 ### 36、[谷歌准备停用第三方 Cookie，淘汰前再学一把！](https://juejin.cn/post/7320433112198332468)
 
 ### 37、[http://webgl3d.cn/](http://webgl3d.cn/)，[https://discoverthreejs.com/zh/](https://discoverthreejs.com/zh/)
+
+### 38、[如何发布一个npm库, 自动化管理版本号、生成 changelog、tag 等](https://juejin.cn/post/7330071450345963530)
