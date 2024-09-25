@@ -87,3 +87,5 @@ window.close();
 ### 38、[如何发布一个npm库, 自动化管理版本号、生成 changelog、tag 等](https://juejin.cn/post/7330071450345963530)
 
 ### 39、[Vue中JSX的实战应用与技巧](https://juejin.cn/post/7404778998633529363)
+
+### 40、[带你一步一步手写Promise（保姆级讲解）](https://juejin.cn/post/7418084847627223103)
