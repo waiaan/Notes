@@ -89,3 +89,5 @@ window.close();
 ### 39、[Vue中JSX的实战应用与技巧](https://juejin.cn/post/7404778998633529363)
 
 ### 40、[带你一步一步手写Promise（保姆级讲解）](https://juejin.cn/post/7418084847627223103)
+
+### 41、[解决 Git Bash 在 windows 下中文乱码的问题](https://minsonlee.github.io/2020/11/how-to-set-utf8-with-git-bash)
